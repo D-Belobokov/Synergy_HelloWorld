@@ -7,7 +7,7 @@ int a=23 ;
         System.out.println("переменная b="+b);
         System.out.println("==========");
       a=a+b;
-      b=a-b;//
+      b=a-b;/
       a=a-b;
         System.out.println("переменная a="+a);
         System.out.println("переменная b="+b);
